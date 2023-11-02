@@ -1,8 +1,8 @@
 # Northbeam
 
-<h3>The marketing intelligence platform for *profitable growth*.</h3>
+## The marketing intelligence platform for *profitable growth*.
 
-<h4>Multi-touch attribution and media mix modeling, both powered by industry-leading machine learning.</h4>
+Multi-touch attribution and media mix modeling, both powered by industry-leading machine learning.
 
 Get started at [northbeam.io](https://www.northbeam.io/)
 

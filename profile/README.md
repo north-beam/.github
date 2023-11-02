@@ -16,12 +16,6 @@ Northbeam supports 3 public apis.
 :telescope: [Pixel API](https://northbeam-pixel-api.readme.io/docs) for interacting with our first party pixel
  
 
-
-<ul>
-<li style="list-style-type: '✅'">done
-<li style="list-style-type: '❎'">open task
-</ul>
-
 # Northbeam Plugins
 
 - [Magento](https://github.com/north-beam/magento) Plugin for Magento e-commerce
